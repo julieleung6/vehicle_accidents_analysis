@@ -16,7 +16,7 @@ Driving is an integral part of everyday life for many individuals. However, it's
 ## Modeling
 Performed multiple model types such as Logistic Regression, Random Forest Classifier, and Catboost Classifier. 
 
-After tuning the parameters for all my models using RandomizedSearchCV and GridSearchCV, Catboost Classifier demonstrated the best performance, achieving an accuracy score of 88.4%. 
+After tuning the parameters for all my models using RandomizedSearchCV and GridSearchCV, Catboost Classifier demonstrated the best performance, achieving an accuracy score of 93.4%. 
 
 
 <br />
