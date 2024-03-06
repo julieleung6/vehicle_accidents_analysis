@@ -1,5 +1,6 @@
 *.DS_Store
 
+data/cali.csv
 data/new_df.csv
 data/US_Accidents_March23.csv
 
