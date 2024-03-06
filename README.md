@@ -16,15 +16,17 @@ Driving is an integral part of everyday life for many individuals. However, it's
 ## Modeling
 Performed multiple model types such as Logistic Regression, Random Forest Classifier, and Catboost Classifier. 
 
-Due to the class imbalanced, I used the recall score as my performance metric. After tuning the parameters for all my models using RandomizedSearchCV and GridSearchCV, Catboost Classifier demonstrated the best performance. It achieved a recall score of 94% for class 0 and 89% for class 1.
+Due to the class imbalanced, I used the recall score as my performance metric. After tuning the parameters for all my models using RandomizedSearchCV and GridSearchCV, Catboost Classifier demonstrated the best performance.
 
 <br />
 
 <img src='images/catboost2.png' width='300' height='100'> 
-<br />
+It achieved a recall score of 94% for class 0 and 89% for class 1.
 <br />
 
-<img src='images/catboost.png' width='300' height='300'> 
+<br />
+
+<img src='images/catboost.png' width='350' height='350'> 
 
 
 <br />
