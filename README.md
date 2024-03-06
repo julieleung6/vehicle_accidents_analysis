@@ -10,6 +10,8 @@ Driving is an integral part of everyday life for many individuals. However, it's
 - The accidents are from February 2016 to March 2023. 
 - Includes all states and DC, excluding Alaska and Hawaii
 
+<img src='images/year.png' width='380' height='380'> 
+
 ## Data Preparation
 <br />
 
